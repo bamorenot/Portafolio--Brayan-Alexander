@@ -1,0 +1,114 @@
+{
+  "hero-cosmic-cliffs": {
+    "title": "James Webb Space Telescope NIRCam Image of the “Cosmic Cliffs” in Carina Nebula",
+    "author": "NASA / STScI (Webb)",
+    "license": "Public domain (NASA)",
+    "source": "https://images.nasa.gov/details/carina_nebula",
+    "width": 1920,
+    "height": 1111
+  },
+  "webb-cryo-chamber": {
+    "title": "James Webb Space Telescope in NASA's giant thermal vacuum chamber",
+    "author": "NASA / GSFC",
+    "license": "Public domain (NASA)",
+    "source": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000745",
+    "width": 1262,
+    "height": 1920
+  },
+  "cern-cms": {
+    "title": "CERN LHC CMS 02",
+    "author": "SimonWaldherr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CERN_LHC_CMS_02.jpg",
+    "width": 1280,
+    "height": 853
+  },
+  "cern-computer-center": {
+    "title": "CERN Computer Center 13",
+    "author": "SimonWaldherr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CERN_Computer_Center_13.jpg",
+    "width": 1280,
+    "height": 853
+  },
+  "ibm-quantum": {
+    "title": "IBM Q system (Fraunhofer 2)",
+    "author": "IBM Research",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:IBM_Q_system_(Fraunhofer_2).jpg",
+    "width": 1280,
+    "height": 888
+  },
+  "nebula-crab": {
+    "title": "Most Detailed Image of the Crab Nebula",
+    "author": "NASA / JPL",
+    "license": "Public domain (NASA)",
+    "source": "https://images.nasa.gov/details/PIA03606",
+    "width": 1920,
+    "height": 1920
+  },
+  "nebula-helix": {
+    "title": "NGC 7293, the Helix Nebula",
+    "author": "NASA / JPL",
+    "license": "Public domain (NASA)",
+    "source": "https://images.nasa.gov/details/PIA15658",
+    "width": 1920,
+    "height": 1920
+  },
+  "nebula-orion": {
+    "title": "Chaos at the Heart of Orion",
+    "author": "NASA / JPL",
+    "license": "Public domain (NASA)",
+    "source": "https://images.nasa.gov/details/PIA01322",
+    "width": 1920,
+    "height": 1920
+  },
+  "nebula-bubble": {
+    "title": "Hubble Sees a Star ‘Inflating’ a Giant Bubble",
+    "author": "NASA / GSFC",
+    "license": "Public domain (NASA)",
+    "source": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000382",
+    "width": 1280,
+    "height": 720
+  },
+  "galaxy-whirlpool": {
+    "title": "Whirlpool Galaxy",
+    "author": "NASA / JPL",
+    "license": "Public domain (NASA)",
+    "source": "https://images.nasa.gov/details/PIA04230",
+    "width": 648,
+    "height": 809
+  },
+  "galaxy-sombrero": {
+    "title": "Hubble Spies Spectacular Sombrero",
+    "author": "NASA / JPL",
+    "license": "Public domain (NASA)",
+    "source": "https://images.nasa.gov/details/PIA15226",
+    "width": 1920,
+    "height": 1076
+  },
+  "galaxy-andromeda": {
+    "title": "Andromeda Galaxy",
+    "author": "NASA / JPL",
+    "license": "Public domain (NASA)",
+    "source": "https://images.nasa.gov/details/PIA04921",
+    "width": 1920,
+    "height": 1920
+  },
+  "galaxy-pinwheel": {
+    "title": "M 101: The Pinwheel Galaxy",
+    "author": "NASA / JPL",
+    "license": "Public domain (NASA)",
+    "source": "https://images.nasa.gov/details/PIA14403",
+    "width": 1900,
+    "height": 1900
+  },
+  "galaxy-sunflower": {
+    "title": "Hubble Sees a Galactic Sunflower",
+    "author": "NASA / GSFC",
+    "license": "Public domain (NASA)",
+    "source": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000615",
+    "width": 1280,
+    "height": 1200
+  }
+}

@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+.env*
+# Los certificados originales contienen la cédula: solo se publican las copias tapadas de public/certificados/
+CERTIFICADOS/
+__pycache__/
